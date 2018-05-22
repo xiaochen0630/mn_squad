@@ -1,0 +1,5 @@
+*.pyc
+data
+*.md~
+__pycache__
+.vscode
